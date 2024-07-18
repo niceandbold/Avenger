@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://i0.wp.com/www.retrozap.com/wp-content/uploads/2018/06/Age-Of-Ultron_153-AvengersHQ.jpg?quality=89&ssl=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right bottom;
+  font-family: "Marvel", sans-serif;
+}
+
+.img{
+  float: right;
+  position: absolute;
+  top: 50px;
+  right: 100px;
+}
+h1{
+  font-size: 50px;
+  color: red;
+  text-shadow: 4px 4px 5px grey;
+}
+.center-bottom {
+  position: absolute;
+  top: 110%;
+  width: 100%;
+  text-align: center;
+  font-size: 38px;
+  font-family: "Marvel", sans-serif;
+  color: #A40606;
+}
+form{
+  font-size: 20px;
+  width: 50%;
+  background-color: rgba(255,255,255, 0.2);
+}
